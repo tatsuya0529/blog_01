@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "7963e1f3bccf1c25b53a74ea37284274",
-    "content-hash": "4117e4c8fb3e64e3dcc46f2dfe96cc41",
+    "hash": "ad0702dfc2b3c08b7c26ddf4b8f83113",
+    "content-hash": "0f8bbb0b1f4ca2f4f62d23536f9fc337",
     "packages": [
         {
             "name": "j4mie/idiorm",
